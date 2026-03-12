@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">بوصلة القبلة</string>
+    <string name="qibla_angle">القبلة: %1$d°</string>
+    <string name="turn_phone">قم بتدوير الهاتف</string>
+
+    <string name="menu">القائمة</string>
+    <string name="back">رجوع</string>
+
+    <string name="instagram">إنستغرام</string>
+    <string name="tiktok">تيك توك</string>
+    <string name="linkedin">لينكد إن</string>
+    <string name="website">الموقع</string>
+
+    <string name="language">اللغة</string>
+    <string name="location_permission_required">مطلوب إذن الموقع</string>
+    <string name="loading_qibla">جاري تحديد اتجاه القبلة...</string>
+
+</resources>

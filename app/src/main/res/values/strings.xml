@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qibla Compass</string>
+
+    <string name="qibla_angle">Qibla: %1$d°</string>
+    <string name="turn_phone">Turn the phone</string>
+
+    <string name="menu">Menu</string>
+    <string name="back">Back</string>
+
+    <string name="instagram">Instagram</string>
+    <string name="tiktok">TikTok</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="website">Website</string>
+
+    <string name="language">Language</string>
+    <string name="location_permission_required">Location permission is required</string>
+    <string name="loading_qibla">Getting Qibla direction...</string>
+
+</resources>

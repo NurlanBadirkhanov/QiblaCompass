@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас Киблы</string>
+
+    <string name="qibla_angle">Кибла: %1$d°</string>
+    <string name="turn_phone">Поверните телефон</string>
+
+    <string name="menu">Меню</string>
+    <string name="back">Назад</string>
+
+    <string name="instagram">Instagram</string>
+    <string name="tiktok">TikTok</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="website">Сайт</string>
+
+    <string name="language">Язык</string>
+
+    <string name="location_permission_required">Требуется разрешение на геолокацию</string>
+    <string name="loading_qibla">Определяем направление Киблы...</string>
+
+</resources>

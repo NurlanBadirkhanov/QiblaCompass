@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qiblə Kompası</string>
+
+    <string name="qibla_angle">Qiblə: %1$d°</string>
+    <string name="turn_phone">Telefonu çevirin</string>
+
+    <string name="menu">Menyu</string>
+    <string name="back">Geri</string>
+
+    <string name="instagram">Instagram</string>
+    <string name="tiktok">TikTok</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="website">Veb sayt</string>
+
+    <string name="language">Dil</string>
+
+
+    <string name="location_permission_required">Məkan icazəsi tələb olunur</string>
+    <string name="loading_qibla">Qiblə istiqaməti tapılır...</string>
+</resources>
