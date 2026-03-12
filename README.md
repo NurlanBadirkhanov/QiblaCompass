@@ -30,4 +30,4 @@ The app works offline after determining the user's location and provides a simpl
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/QiblaCompass.git
+git clone https://github.com/NurlanBadirkhanov/QiblaCompass.git
